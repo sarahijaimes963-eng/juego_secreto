@@ -1,8 +1,6 @@
-# 🎲 Juego del Número Secreto
+# 🎲 Juego del Número Secreto --
 
 ¡Bienvenido al Juego del Número Secreto! Este es un divertido y sencillo juego web donde pones a prueba tu intuición para adivinar un número generado aleatoriamente dentro de un rango específico.
-
-
 
 El objetivo es simple: adivinar el número secreto en la menor cantidad de intentos posible, utilizando las pistas que te da el juego.
 
@@ -10,11 +8,11 @@ El objetivo es simple: adivinar el número secreto en la menor cantidad de inten
 
 ## 🌟 Características Principales
 
-* **Interfaz Limpia y Sencilla:** Un diseño minimalista y fácil de entender para que te concentres en jugar.
-* **Feedback Instantáneo:** El juego te indica si tu número es **mayor** o **menor** que el número secreto.
-* **Conteo de Intentos:** Lleva un registro de cuántos intentos has necesitado para adivinar.
-* **Botón para Reiniciar:** ¿Quieres un nuevo desafío? Puedes empezar un nuevo juego en cualquier momento.
-* **Diseño Adaptable (Responsive):** Juega cómodamente desde tu computadora de escritorio, tablet o teléfono móvil.
+- **Interfaz Limpia y Sencilla:** Un diseño minimalista y fácil de entender para que te concentres en jugar.
+- **Feedback Instantáneo:** El juego te indica si tu número es **mayor** o **menor** que el número secreto.
+- **Conteo de Intentos:** Lleva un registro de cuántos intentos has necesitado para adivinar.
+- **Botón para Reiniciar:** ¿Quieres un nuevo desafío? Puedes empezar un nuevo juego en cualquier momento.
+- **Diseño Adaptable (Responsive):** Juega cómodamente desde tu computadora de escritorio, tablet o teléfono móvil.
 
 ---
 
@@ -22,9 +20,9 @@ El objetivo es simple: adivinar el número secreto en la menor cantidad de inten
 
 Este proyecto fue desarrollado utilizando las tecnologías fundamentales del desarrollo web front-end:
 
-* **HTML5:** Para la estructura semántica y el contenido del juego.
-* **CSS3:** Para el diseño visual, los estilos y las animaciones.
-* **JavaScript:** Para toda la lógica interactiva, como generar el número secreto, comparar las entradas del usuario y mostrar los mensajes.
+- **HTML5:** Para la estructura semántica y el contenido del juego.
+- **CSS3:** Para el diseño visual, los estilos y las animaciones.
+- **JavaScript:** Para toda la lógica interactiva, como generar el número secreto, comparar las entradas del usuario y mostrar los mensajes.
 
 ---
 
