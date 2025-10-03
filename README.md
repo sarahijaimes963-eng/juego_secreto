@@ -8,7 +8,7 @@ El objetivo es simple: adivinar el número secreto en la menor cantidad de inten
 
 ## 🌟 Características Principales
 
-- **Interfaz Limpia y Sencilla:** Un diseño minimalista y fácil de entender para que te concentres en jugar.
+- **Interfaz Limpia, Sencilla e Intuitiva:** Un diseño minimalista y fácil de entender para que te concentres en jugar.
 - **Feedback Instantáneo:** El juego te indica si tu número es **mayor** o **menor** que el número secreto.
 - **Conteo de Intentos:** Lleva un registro de cuántos intentos has necesitado para adivinar.
 - **Botón para Reiniciar:** ¿Quieres un nuevo desafío? Puedes empezar un nuevo juego en cualquier momento.
